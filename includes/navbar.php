@@ -17,7 +17,7 @@
 <body>
 
 <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
-<span style="margin-left: 10px" class="navbar-brand">PROJECT MMS</span> 
+<span style="margin-left: 10px" class="navbar-brand">Snackbar-Blauw</span>
 <ul class="navbar-nav">
     <li class="nav-item active">
       <a class="nav-link" href="gebruiker-overzicht.php">gebruiker overzicht</a>
